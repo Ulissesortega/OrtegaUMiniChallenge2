@@ -1,0 +1,75 @@
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Homework/2 - Adding Numbers/obj/Debug/net6.0/2 - Adding Numbers.csproj.AssemblyReference.cache
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Homework/2 - Adding Numbers/obj/Debug/net6.0/2 - Adding Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Homework/2 - Adding Numbers/obj/Debug/net6.0/2 - Adding Numbers.AssemblyInfoInputs.cache
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Homework/2 - Adding Numbers/obj/Debug/net6.0/2 - Adding Numbers.AssemblyInfo.cs
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Homework/2 - Adding Numbers/obj/Debug/net6.0/2 - Adding Numbers.csproj.CoreCompileInputs.cache
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Homework/2 - Adding Numbers/bin/Debug/net6.0/2 - Adding Numbers
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Homework/2 - Adding Numbers/bin/Debug/net6.0/2 - Adding Numbers.deps.json
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Homework/2 - Adding Numbers/bin/Debug/net6.0/2 - Adding Numbers.runtimeconfig.json
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Homework/2 - Adding Numbers/bin/Debug/net6.0/2 - Adding Numbers.dll
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Homework/2 - Adding Numbers/bin/Debug/net6.0/2 - Adding Numbers.pdb
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Homework/2 - Adding Numbers/obj/Debug/net6.0/2 - Adding Numbers.dll
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Homework/2 - Adding Numbers/obj/Debug/net6.0/refint/2 - Adding Numbers.dll
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Homework/2 - Adding Numbers/obj/Debug/net6.0/2 - Adding Numbers.pdb
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Homework/2 - Adding Numbers/obj/Debug/net6.0/2 - Adding Numbers.genruntimeconfig.cache
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/Homework/2 - Adding Numbers/obj/Debug/net6.0/ref/2 - Adding Numbers.dll
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/2 - Adding Numbers/bin/Debug/net6.0/2 - Adding Numbers
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/2 - Adding Numbers/bin/Debug/net6.0/2 - Adding Numbers.deps.json
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/2 - Adding Numbers/bin/Debug/net6.0/2 - Adding Numbers.runtimeconfig.json
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/2 - Adding Numbers/bin/Debug/net6.0/2 - Adding Numbers.dll
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/2 - Adding Numbers/bin/Debug/net6.0/2 - Adding Numbers.pdb
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/2 - Adding Numbers/obj/Debug/net6.0/2 - Adding Numbers.csproj.AssemblyReference.cache
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/2 - Adding Numbers/obj/Debug/net6.0/2 - Adding Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/2 - Adding Numbers/obj/Debug/net6.0/2 - Adding Numbers.AssemblyInfoInputs.cache
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/2 - Adding Numbers/obj/Debug/net6.0/2 - Adding Numbers.AssemblyInfo.cs
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/2 - Adding Numbers/obj/Debug/net6.0/2 - Adding Numbers.csproj.CoreCompileInputs.cache
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/2 - Adding Numbers/obj/Debug/net6.0/2 - Adding Numbers.dll
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/2 - Adding Numbers/obj/Debug/net6.0/refint/2 - Adding Numbers.dll
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/2 - Adding Numbers/obj/Debug/net6.0/2 - Adding Numbers.pdb
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/2 - Adding Numbers/obj/Debug/net6.0/2 - Adding Numbers.genruntimeconfig.cache
+/Users/ulisesortega/Desktop/Combine/Week 1/Homework/2 - Adding Numbers/obj/Debug/net6.0/ref/2 - Adding Numbers.dll
+/Users/ulisesortega/Desktop/Homework/2 - Adding Numbers/bin/Debug/net6.0/2 - Adding Numbers
+/Users/ulisesortega/Desktop/Homework/2 - Adding Numbers/bin/Debug/net6.0/2 - Adding Numbers.deps.json
+/Users/ulisesortega/Desktop/Homework/2 - Adding Numbers/bin/Debug/net6.0/2 - Adding Numbers.runtimeconfig.json
+/Users/ulisesortega/Desktop/Homework/2 - Adding Numbers/bin/Debug/net6.0/2 - Adding Numbers.dll
+/Users/ulisesortega/Desktop/Homework/2 - Adding Numbers/bin/Debug/net6.0/2 - Adding Numbers.pdb
+/Users/ulisesortega/Desktop/Homework/2 - Adding Numbers/obj/Debug/net6.0/2 - Adding Numbers.csproj.AssemblyReference.cache
+/Users/ulisesortega/Desktop/Homework/2 - Adding Numbers/obj/Debug/net6.0/2 - Adding Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulisesortega/Desktop/Homework/2 - Adding Numbers/obj/Debug/net6.0/2 - Adding Numbers.AssemblyInfoInputs.cache
+/Users/ulisesortega/Desktop/Homework/2 - Adding Numbers/obj/Debug/net6.0/2 - Adding Numbers.AssemblyInfo.cs
+/Users/ulisesortega/Desktop/Homework/2 - Adding Numbers/obj/Debug/net6.0/2 - Adding Numbers.csproj.CoreCompileInputs.cache
+/Users/ulisesortega/Desktop/Homework/2 - Adding Numbers/obj/Debug/net6.0/2 - Adding Numbers.dll
+/Users/ulisesortega/Desktop/Homework/2 - Adding Numbers/obj/Debug/net6.0/refint/2 - Adding Numbers.dll
+/Users/ulisesortega/Desktop/Homework/2 - Adding Numbers/obj/Debug/net6.0/2 - Adding Numbers.pdb
+/Users/ulisesortega/Desktop/Homework/2 - Adding Numbers/obj/Debug/net6.0/2 - Adding Numbers.genruntimeconfig.cache
+/Users/ulisesortega/Desktop/Homework/2 - Adding Numbers/obj/Debug/net6.0/ref/2 - Adding Numbers.dll
+/Users/ulisesortega/Downloads/OrtegaU - Challenge # 0 Data Validation and Play Again/2 - Adding Numbers/bin/Debug/net6.0/2 - Adding Numbers
+/Users/ulisesortega/Downloads/OrtegaU - Challenge # 0 Data Validation and Play Again/2 - Adding Numbers/bin/Debug/net6.0/2 - Adding Numbers.deps.json
+/Users/ulisesortega/Downloads/OrtegaU - Challenge # 0 Data Validation and Play Again/2 - Adding Numbers/bin/Debug/net6.0/2 - Adding Numbers.runtimeconfig.json
+/Users/ulisesortega/Downloads/OrtegaU - Challenge # 0 Data Validation and Play Again/2 - Adding Numbers/bin/Debug/net6.0/2 - Adding Numbers.dll
+/Users/ulisesortega/Downloads/OrtegaU - Challenge # 0 Data Validation and Play Again/2 - Adding Numbers/bin/Debug/net6.0/2 - Adding Numbers.pdb
+/Users/ulisesortega/Downloads/OrtegaU - Challenge # 0 Data Validation and Play Again/2 - Adding Numbers/obj/Debug/net6.0/2 - Adding Numbers.csproj.AssemblyReference.cache
+/Users/ulisesortega/Downloads/OrtegaU - Challenge # 0 Data Validation and Play Again/2 - Adding Numbers/obj/Debug/net6.0/2 - Adding Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulisesortega/Downloads/OrtegaU - Challenge # 0 Data Validation and Play Again/2 - Adding Numbers/obj/Debug/net6.0/2 - Adding Numbers.AssemblyInfoInputs.cache
+/Users/ulisesortega/Downloads/OrtegaU - Challenge # 0 Data Validation and Play Again/2 - Adding Numbers/obj/Debug/net6.0/2 - Adding Numbers.AssemblyInfo.cs
+/Users/ulisesortega/Downloads/OrtegaU - Challenge # 0 Data Validation and Play Again/2 - Adding Numbers/obj/Debug/net6.0/2 - Adding Numbers.csproj.CoreCompileInputs.cache
+/Users/ulisesortega/Downloads/OrtegaU - Challenge # 0 Data Validation and Play Again/2 - Adding Numbers/obj/Debug/net6.0/2 - Adding Numbers.dll
+/Users/ulisesortega/Downloads/OrtegaU - Challenge # 0 Data Validation and Play Again/2 - Adding Numbers/obj/Debug/net6.0/refint/2 - Adding Numbers.dll
+/Users/ulisesortega/Downloads/OrtegaU - Challenge # 0 Data Validation and Play Again/2 - Adding Numbers/obj/Debug/net6.0/2 - Adding Numbers.pdb
+/Users/ulisesortega/Downloads/OrtegaU - Challenge # 0 Data Validation and Play Again/2 - Adding Numbers/obj/Debug/net6.0/2 - Adding Numbers.genruntimeconfig.cache
+/Users/ulisesortega/Downloads/OrtegaU - Challenge # 0 Data Validation and Play Again/2 - Adding Numbers/obj/Debug/net6.0/ref/2 - Adding Numbers.dll
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge2/bin/Debug/net6.0/2 - Adding Numbers
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge2/bin/Debug/net6.0/2 - Adding Numbers.deps.json
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge2/bin/Debug/net6.0/2 - Adding Numbers.runtimeconfig.json
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge2/bin/Debug/net6.0/2 - Adding Numbers.dll
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge2/bin/Debug/net6.0/2 - Adding Numbers.pdb
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge2/obj/Debug/net6.0/2 - Adding Numbers.csproj.AssemblyReference.cache
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge2/obj/Debug/net6.0/2 - Adding Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge2/obj/Debug/net6.0/2 - Adding Numbers.AssemblyInfoInputs.cache
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge2/obj/Debug/net6.0/2 - Adding Numbers.AssemblyInfo.cs
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge2/obj/Debug/net6.0/2 - Adding Numbers.csproj.CoreCompileInputs.cache
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge2/obj/Debug/net6.0/2 - Adding Numbers.dll
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge2/obj/Debug/net6.0/refint/2 - Adding Numbers.dll
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge2/obj/Debug/net6.0/2 - Adding Numbers.pdb
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge2/obj/Debug/net6.0/2 - Adding Numbers.genruntimeconfig.cache
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge2/obj/Debug/net6.0/ref/2 - Adding Numbers.dll
