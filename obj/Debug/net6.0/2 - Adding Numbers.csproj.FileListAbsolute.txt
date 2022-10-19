@@ -73,3 +73,18 @@
 /Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge2/obj/Debug/net6.0/2 - Adding Numbers.pdb
 /Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge2/obj/Debug/net6.0/2 - Adding Numbers.genruntimeconfig.cache
 /Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge2/obj/Debug/net6.0/ref/2 - Adding Numbers.dll
+/Users/manuel/Documents/GitRepository/OrtegaUMiniChallenge2/bin/Debug/net6.0/2 - Adding Numbers
+/Users/manuel/Documents/GitRepository/OrtegaUMiniChallenge2/bin/Debug/net6.0/2 - Adding Numbers.deps.json
+/Users/manuel/Documents/GitRepository/OrtegaUMiniChallenge2/bin/Debug/net6.0/2 - Adding Numbers.runtimeconfig.json
+/Users/manuel/Documents/GitRepository/OrtegaUMiniChallenge2/bin/Debug/net6.0/2 - Adding Numbers.dll
+/Users/manuel/Documents/GitRepository/OrtegaUMiniChallenge2/bin/Debug/net6.0/2 - Adding Numbers.pdb
+/Users/manuel/Documents/GitRepository/OrtegaUMiniChallenge2/obj/Debug/net6.0/2 - Adding Numbers.csproj.AssemblyReference.cache
+/Users/manuel/Documents/GitRepository/OrtegaUMiniChallenge2/obj/Debug/net6.0/2 - Adding Numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manuel/Documents/GitRepository/OrtegaUMiniChallenge2/obj/Debug/net6.0/2 - Adding Numbers.AssemblyInfoInputs.cache
+/Users/manuel/Documents/GitRepository/OrtegaUMiniChallenge2/obj/Debug/net6.0/2 - Adding Numbers.AssemblyInfo.cs
+/Users/manuel/Documents/GitRepository/OrtegaUMiniChallenge2/obj/Debug/net6.0/2 - Adding Numbers.csproj.CoreCompileInputs.cache
+/Users/manuel/Documents/GitRepository/OrtegaUMiniChallenge2/obj/Debug/net6.0/2 - Adding Numbers.dll
+/Users/manuel/Documents/GitRepository/OrtegaUMiniChallenge2/obj/Debug/net6.0/refint/2 - Adding Numbers.dll
+/Users/manuel/Documents/GitRepository/OrtegaUMiniChallenge2/obj/Debug/net6.0/2 - Adding Numbers.pdb
+/Users/manuel/Documents/GitRepository/OrtegaUMiniChallenge2/obj/Debug/net6.0/2 - Adding Numbers.genruntimeconfig.cache
+/Users/manuel/Documents/GitRepository/OrtegaUMiniChallenge2/obj/Debug/net6.0/ref/2 - Adding Numbers.dll
