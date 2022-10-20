@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/manuel/.nuget/packages/": {}
+    "/Users/ulisesortega/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/manuel/Documents/GitRepository/OrtegaUMiniChallenge2/2 - Adding Numbers.csproj",
+      "projectUniqueName": "/Users/ulisesortega/Desktop/OrtegaUGitHubChallenge/OrtegaUMiniChallenge2/2 - Adding Numbers.csproj",
       "projectName": "2 - Adding Numbers",
-      "projectPath": "/Users/manuel/Documents/GitRepository/OrtegaUMiniChallenge2/2 - Adding Numbers.csproj",
-      "packagesPath": "/Users/manuel/.nuget/packages/",
-      "outputPath": "/Users/manuel/Documents/GitRepository/OrtegaUMiniChallenge2/obj/",
+      "projectPath": "/Users/ulisesortega/Desktop/OrtegaUGitHubChallenge/OrtegaUMiniChallenge2/2 - Adding Numbers.csproj",
+      "packagesPath": "/Users/ulisesortega/.nuget/packages/",
+      "outputPath": "/Users/ulisesortega/Desktop/OrtegaUGitHubChallenge/OrtegaUMiniChallenge2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/manuel/.nuget/NuGet/NuGet.Config"
+        "/Users/ulisesortega/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
       }
     }
   }
